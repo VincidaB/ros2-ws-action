@@ -8,7 +8,7 @@ inputs:
   distro:
     description: The ROS 2 distribution to be used
     required: false
-    default: iron
+    default: humble
 runs:
   using: composite
   steps:
